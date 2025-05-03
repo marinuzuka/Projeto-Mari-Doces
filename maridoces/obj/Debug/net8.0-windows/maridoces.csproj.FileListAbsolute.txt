@@ -1,0 +1,267 @@
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\leticia.csrosa\source\repos\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Administrador.resources
+C:\Users\FELP9\Desktop\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.NovoProduto.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Administrador.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.NovoProduto.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\leticia.csrosa\Downloads\maridoces 4\maridoces\maridoces\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Administrador.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.NovoProduto.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.sourcelink.json
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\leticia.csrosa\Desktop\Projeto-Mari-Doces\Projeto\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Administrador.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.NovoProduto.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\Admin\Desktop\curso em video\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.AssemblyReference.cache
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Administrador.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.card.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Cards.carddois.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.NovoProduto.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.componentes.controle.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controledois.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.conexao.controletres.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Form_principal.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.Properties.Resources.resources
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.GenerateResource.cache
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfoInputs.cache
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.AssemblyInfo.cs
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.CoreCompileInputs.cache
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\refint\maridoces.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.exe
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.deps.json
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.runtimeconfig.json
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\maridoces.pdb
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.csproj.Up2Date
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\maridoces.genruntimeconfig.cache
+C:\Users\FELP9\Downloads\Projeto-Mari-Doces-leticia3carvalho_1\Projeto-Mari-Doces-leticia3carvalho\Projeto\maridoces\obj\Debug\net8.0-windows\ref\maridoces.dll

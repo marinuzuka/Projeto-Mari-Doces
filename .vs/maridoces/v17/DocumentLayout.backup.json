@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\novoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\felp9\\downloads\\projeto-mari-doces-leticia3carvalho_1\\projeto-mari-doces-leticia3carvalho\\projeto\\maridoces\\componentes\\controletres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\componentes\\controletres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\felp9\\downloads\\projeto-mari-doces-leticia3carvalho_1\\projeto-mari-doces-leticia3carvalho\\projeto\\maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\componentes\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\cards\\carddois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\cards\\carddois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|c:\\users\\felp9\\downloads\\projeto-mari-doces-leticia3carvalho_1\\projeto-mari-doces-leticia3carvalho\\projeto\\maridoces\\componentes\\controledois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ECDFF9BC-6E93-4D4A-BEBA-822BAD1C7521}|maridoces\\maridoces.csproj|solutionrelative:maridoces\\componentes\\controledois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Form1.cs",
+              "RelativeDocumentMoniker": "maridoces\\Form1.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Form1.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:09:56.891Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "controletres.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controletres.cs",
+              "RelativeDocumentMoniker": "maridoces\\componentes\\controletres.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controletres.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\componentes\\controletres.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:04.312Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "controledois.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controledois.cs",
+              "RelativeDocumentMoniker": "maridoces\\componentes\\controledois.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controledois.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\componentes\\controledois.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:02.566Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "controle.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controle.cs",
+              "RelativeDocumentMoniker": "maridoces\\componentes\\controle.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\componentes\\controle.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\componentes\\controle.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:01.39Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "carddois.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\carddois.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\carddois.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\carddois.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\Cards\\carddois.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:37:13.93Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrador.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\Administrador.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\Administrador.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\Administrador.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\Cards\\Administrador.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:37:16.024Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NovoProduto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\NovoProduto.cs",
+              "RelativeDocumentMoniker": "maridoces\\Cards\\NovoProduto.cs",
+              "ToolTip": "C:\\Users\\FELP9\\Downloads\\Projeto-Mari-Doces-leticia3carvalho_1\\Projeto-Mari-Doces-leticia3carvalho\\Projeto\\maridoces\\Cards\\NovoProduto.cs [Projeto]",
+              "RelativeToolTip": "maridoces\\Cards\\NovoProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:45:38.457Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
