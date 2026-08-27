@@ -1,4 +1,4 @@
-# Mari Doces 🍰
+# Mari Doces 
 
 ## Sobre o projeto
 
